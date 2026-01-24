@@ -1,0 +1,8 @@
+Step 1: Create a Figma account.
+Step 2: Login to Figma account then click on File then New Design.
+Step 3: Now click on Frame and select Desktop. It will create frame on the screen.
+Step 4: Now type brand name add menus for users, cart and add option as shown below:
+Step 5: Now add a hero image below the navbar as shown below:
+Step 6: Now add some mobile images below the hero image as shown below:
+Step 7: Add a footer as shown below after adding mobile phones:
+Step 8: Final output is:
