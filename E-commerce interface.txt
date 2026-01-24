@@ -1,0 +1,9 @@
+Step 1: Create a Figma account.
+Step 2: Login to Figma account then click on File then New Design.
+Step 3: Now click on Frame and select Desktop. It will create frame on the screen.
+Step 4: Now create two navbar one for brand logo, search bar, login, register, cart etc. and
+        second navbar for categories, toys, boys and girls fashion etc. as shown below:
+Step 5: Now add large banner/hero image with left right arrows as shown below:
+Step 6: Now add PREMIUM BOUTIQUES section and add 3 cards with name as shown below:
+Step 7: Now add footer text on left and up arrow on right as shown below:
+Step 8: Final Output is:
