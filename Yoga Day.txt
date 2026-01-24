@@ -1,0 +1,8 @@
+Step 1: Create a Figma account.
+Step 2: Login to Figma account then click on File then New Design.
+Step 3: Now click on Frame and select Desktop. It will create frame on the screen.
+Step 4: Now set background and create Navbar. Add logo and some text as shown below:
+Step 5: Now add image, text and button in main section as shown below:
+Step 6: Now add some yoga pose image in circle below main section as shown below:
+Step 7: After completing the design, click on run icon on the top-right corner.
+Step 8: Final output is: 
