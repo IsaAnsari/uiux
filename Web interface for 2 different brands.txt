@@ -1,0 +1,10 @@
+Step 1: Create a Figma account.
+Step 2: Login to Figma account then click on File then New Design.
+Step 3: Now click on Frame and select Desktop. It will create frame on the screen.
+Step 4: Divide the desktop screen into 2 parts for two different brands website. And add
+        navbar for both the brands as shown below:
+Step 5: Now add hero image in both websites as shown below:
+Step 6: Now add “Dhamaka Deals” section on left website and “Filters & Sort” section on
+        the right website as shown below:
+Step 7: Now add some bags card on the left and some wallet cards on the right with price,
+        heart icon and more as shown below which is final output:
