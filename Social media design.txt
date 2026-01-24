@@ -1,0 +1,14 @@
+Step 1: Create a Figma account.
+Step 2: Login to Figma account then click on File then New Design.
+Step 3: Now click on Frame and select Phone > iPhone 16 Pro Max. It will create frame on the screen.
+Step 4: Now Add Instagram icon, Instagram logo and messenger icon then draw the
+        horizontal line as shown below. You can add time (on left side) and network, Wi-Fi, battery
+        icon (on right side) for better visibility.
+Step 5: Now add 2 circular shapes for each profile (outer 85px, inner 70px) and add stroke
+        for outer circle (85px). Fill the image in inner circle (70px) and add name as shown below:
+Step 6: Now add user icon, user name, three dots on right side and one picture posted by user.
+Step 7: Now add heart icon below image, comment icon, arrow icon and bookmark icon,
+        also add number of likes, users comment and time of posted image.
+Step 8: Now add home icon, search icon, add icon, video icon and user icon in the footer as
+        shown below: (You can also add closing bar as it presents in iPhone)
+Step 9: Final Output is: 
