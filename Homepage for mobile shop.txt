@@ -1,3 +1,5 @@
+https://www.figma.com/design/u595FFBsxzSCJtFOXHELpj/Samsung?t=WbX9qo6wHaSARTwM-0
+
 Step 1: Create a Figma account.
 Step 2: Login to Figma account then click on File then New Design.
 Step 3: Now click on Frame and select Desktop. It will create frame on the screen.
