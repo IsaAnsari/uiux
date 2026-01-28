@@ -1,0 +1,11 @@
+https://www.figma.com/design/BakTZbwCnddiquJVDAofZu/Untitled?t=4q3F9z5Rkp7U32go-0
+
+Step 1: Create a Figma account.
+Step 2: Login to Figma account then click on File then New Design.
+Step 3: Now click on Frame and select Desktop. It will create frame on the screen.
+Step 4: Now add main section of the website as shown below:
+Step 5: Now add “Color Design Principles” section after the main section as shown below:
+Step 6: Now add “Color Palette” section after the “Color Design Principles” section as shown below:
+Step 7: Now add “Typography Scale” section after the “Color Palette” section as shown below:
+Step 8: Now add a last section after the “Typography Scale” section as shown below:
+Step 9: The final Output is:
